@@ -273,14 +273,14 @@ p {
     min-height: 600px;
 }
 .section-content.white {
-    border: 15px solid #efefef;
+    border: 15px solid #4e93e6;
 }
 .section-content.grey {
-    border: 15px solid #fafafa;
+    border: 15px solid #4e93e6;
 }
 .block-main-title {
     font-size: 90px;
-    color: #333333;
+    color: #000000;
     opacity: .1;
     position: absolute;
     transform: rotate(-90deg) translateX(-100%);
